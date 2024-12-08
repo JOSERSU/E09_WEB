@@ -1,0 +1,3 @@
+com\upiiz\SecurityInMemory\SecurityInMemoryApplication.class
+com\upiiz\SecurityInMemory\controllers\config\SecurityConfig.class
+com\upiiz\SecurityInMemory\controllers\FacturasController.class
